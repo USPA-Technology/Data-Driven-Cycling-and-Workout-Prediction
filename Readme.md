@@ -2,6 +2,8 @@
 
 In this repo I'll share how I turned data from my bike exercises into a Machine Learning based smart bot leveraging Microsoft Bot Framework and Microsoft Teams, which helps me achieve more with my training and be motivated all the time.
 
+Link: https://towardsdatascience.com/data-driven-cycling-and-workout-prediction-72c393e2542c
+
 ## Overview
 
 I started cycling with a foldable bike at end of January 2020 and I fell in love with cycling. I also love working with data so I've recorded all my rides to [Strava](www.strava.com) with [Withings Steel HR](https://www.withings.com/us/en/steel-hr) smart watch. 🚴🏻🚴🏻
